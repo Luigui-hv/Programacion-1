@@ -1,3 +1,4 @@
+#Escribe una palabra para ver si es igual de derecho al reves
 cadena = input("Ingrese una frase: ")
 cadena_sin_espacios = cadena.replace(" ", "")
 cadena_invertida = ""

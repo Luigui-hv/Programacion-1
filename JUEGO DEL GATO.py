@@ -1,4 +1,5 @@
 import numpy as np
+#Juego de 2 jugadores de "X" y "O" 
 #---------------------------------------------
 def mostrar_tablero(tablero):
     print("\n    1   2   3")

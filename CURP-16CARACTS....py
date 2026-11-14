@@ -1,4 +1,5 @@
 #Hernández Villegas Luis Antonio 
+#Ingresa todos tus datos para sacar tu CURP
 print("Primeras dieciséis caracteres de la CURP")
 print()
 print("Este programa saca tu curp ")
