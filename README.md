@@ -15,7 +15,7 @@ ingresa un texto y hara un cifrado de x desplazamiento, en el abecedario.
 Tener Python 3 instalado
 ## Ejecucion
 Para ejecutar el programa usa la terminal y escribe por ejemplo "py.exe" o "python3.exe" y el programa que usaras "py.exe .\cifrado_cesar.py" y el programa funcionara correctamente :b
-![Ejecución del programa](capturas/ejecucion1.png)
+![Ejecución del programa](Capturas/ejecucion1.png)
 y asi se veria :D
 ## Autor
 Luis Antonio Hernández Villegas
